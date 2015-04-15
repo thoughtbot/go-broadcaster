@@ -51,3 +51,44 @@ that of leveraging channels.
 I've not implemented a way to shut down the
 broadcaster, as it should be a natural extension
 of what's here.
+
+Contributing
+------------
+
+See the [CONTRIBUTING] document.
+Thank you, [contributors]!
+
+[CONTRIBUTING]: CONTRIBUTING.md
+[contributors]: https://github.com/thoughtbot/go-broadcaster/graphs/contributors
+
+Need Help?
+----------
+
+We offer 1-on-1 coaching. [Get in touch] if you'd
+like to learn more about building
+awesome software in Go.
+
+[Get in touch]: http://coaching.thoughtbot.com/go/?utm_source=github
+
+License
+-------
+
+go-broadcaster is Copyright (c) 2015 thoughtbot, inc. It is free software,
+and may be redistributed under the terms specified in the [LICENSE] file.
+
+[LICENSE]: /LICENSE
+
+About
+-----
+
+![thoughtbot](https://thoughtbot.com/logo.png)
+
+go-broadcaster is maintained and funded by thoughtbot, inc.
+The names and logos for thoughtbot are trademarks of thoughtbot, inc.
+
+We love open source software!
+See [our other projects][community]
+or [hire us][hire] to help build your product.
+
+[community]: https://thoughtbot.com/community?utm_source=github
+[hire]: https://thoughtbot.com/hire-us?utm_source=github
