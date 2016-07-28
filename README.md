@@ -83,7 +83,7 @@ About
 
 ![thoughtbot](https://thoughtbot.com/logo.png)
 
-go-broadcaster is maintained and funded by  and [thoughtbot's Go development team].
+go-broadcaster is maintained and funded by [thoughtbot's Go development team].
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
 
 [thoughtbot's Go development team]: <https://thoughtbot.com/services/go> "Go development team | Hire thoughtbot Gophers"
